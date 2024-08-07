@@ -102,19 +102,19 @@
 ``` sql
 SELECT * FROM `compra`.`produtos`;
 ```
-<img width="600" src="./imgs/ProdutosCadastrados.gif">
+<video width="600" src="./imgs/ProdutosCadastrados.mp4">
 
 ## Cadastro de Categoria
 ``` sql
 SELECT * FROM `compra`.`categoria`;
 ```
-<img width="600" src="./imgs/cadastroCategoria.gif">
+<video width="600" src="./imgs/cadastroCategoria.mp4">
 
 ## Cadastro de Marca
 ``` sql
 SELECT * FROM `compra`.`marca`;
 ```
-<img width="600" src="./imgs/cadastroMarca.gif">
+<video width="600" src="./imgs/cadastroMarca.mp4">
 
 ----------------------------------------------------------------------------------------------------------------------
 
