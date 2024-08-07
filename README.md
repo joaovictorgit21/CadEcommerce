@@ -58,7 +58,7 @@
 
 ### Criar Database
 ``` sql
-    CREATA DATABASE `compra`;
+    CREATE DATABASE `compra`;
 ```
 
 ### Categoria
