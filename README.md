@@ -116,6 +116,12 @@ SELECT * FROM `compra`.`marca`;
 ```
 <img width="100%" src="./imgs/cadastroMarca.gif">
 
+## Cadastrar Produto
+``` sql
+SELECT * FROM `compra`.`produtos`;
+```
+<img src="./imgs/CadastroProdutos.gif">
+
 ## Carrinho
 
 <img width="100%" src="./imgs/Carrinho.gif">
