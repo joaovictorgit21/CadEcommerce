@@ -12,6 +12,8 @@
     <header>
       <div class="center">
         <h1 style="text-align: center">Programação Web II - Pedido de compra</h1>
+        <a href="marca.php" target="_blank">Marca</a>
+        <a href="categorias.php" target="_blank">Categoria</a>
         <a href="carrinho.php" target="_blank">Carrinho</a>
       </div>
     </header>
