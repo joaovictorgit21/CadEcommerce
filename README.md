@@ -102,23 +102,23 @@
 ``` sql
 SELECT * FROM `compra`.`produtos`;
 ```
-<img width="600" src="./imgs/ProdutosCadastrados.gif">
+<img width="100%" src="./imgs/ProdutosCadastrados.gif">
 
 ## Cadastro de Categoria
 ``` sql
 SELECT * FROM `compra`.`categoria`;
 ```
-<img width="600" src="./imgs/cadastroCategoria.gif">
+<img width="100%" src="./imgs/cadastroCategoria.gif">
 
 ## Cadastro de Marca
 ``` sql
 SELECT * FROM `compra`.`marca`;
 ```
-<img width="600" src="./imgs/cadastroMarca.gif">
+<img width="100%" src="./imgs/cadastroMarca.gif">
 
 ## Carrinho
 
-<img width="600" src="./imgs/Carrinho.gif">
+<img width="100%" src="./imgs/Carrinho.gif">
 
 ----------------------------------------------------------------------------------------------------------------------
 
